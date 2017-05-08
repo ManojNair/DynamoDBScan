@@ -1,0 +1,12 @@
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\bin\Debug\AWSSDK.Core.dll
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\bin\Debug\AWSSDK.DynamoDBv2.dll
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\bin\Debug\AWSSDK.Core.pdb
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\bin\Debug\AWSSDK.Core.xml
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\bin\Debug\AWSSDK.DynamoDBv2.pdb
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\bin\Debug\AWSSDK.DynamoDBv2.xml
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Projects\Visual Studio 2017\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
